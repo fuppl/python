@@ -1,0 +1,5 @@
+file = open("file","w")
+file.write("print(\"管你谁\")\n")
+file.write("print(\"管你谁2\")\n")
+file.write("print(\"管你谁3\")\n")
+file.close()

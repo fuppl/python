@@ -1,0 +1,1 @@
+print('应支付%g元' % (float(input("单价： ")) * float(input("重量： "))))
